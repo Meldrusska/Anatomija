@@ -1,0 +1,36 @@
+li{ display: inline-flex;
+    padding: 25px
+    }
+    article{
+    width: 100%;
+    background-color: #ab6b6b;
+    position: absolute;
+    top: 220px;
+    height: 300px;
+    }
+    h2 , p {
+    text-align: center;
+    color: #fff;
+    }
+    ul{
+    text-align: center;
+    }
+    details {
+    margin-top: 330px;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #ab6b6b;
+    }
+    details p {
+    font-size: 18px;
+    }
+    summary {
+    color: white;
+    font-size: 22px;
+    }
+    a{
+-webkit-text-fill-color: #fff;
+    }
