@@ -1,21 +1,27 @@
-li{ display: inline-flex;
+li {
+    display: inline-flex;
     padding: 25px
-    }
-    article{
+}
+
+article {
     width: 100%;
     background-color: #ab6b6b;
     position: absolute;
     top: 220px;
     height: 300px;
-    }
-    h2 , p {
+}
+
+h2,
+p {
     text-align: center;
     color: #fff;
-    }
-    ul{
+}
+
+ul {
     text-align: center;
-    }
-    details {
+}
+
+details {
     margin-top: 330px;
     width: 100%;
     padding-top: 10px;
@@ -23,14 +29,17 @@ li{ display: inline-flex;
     padding-left: 15px;
     padding-right: 15px;
     background-color: #ab6b6b;
-    }
-    details p {
+}
+
+details p {
     font-size: 18px;
-    }
-    summary {
+}
+
+summary {
     color: white;
     font-size: 22px;
-    }
-    a{
--webkit-text-fill-color: #fff;
-    }
+}
+
+a {
+    -webkit-text-fill-color: #fff;
+}
